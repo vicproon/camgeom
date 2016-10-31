@@ -1,2 +1,2 @@
 # camgeom
-Course materials for MIPT Camera Geometry In Computer Vision course (Cognitive Technologies)
+Course materials for MIPT Camera Geometry for Scene Reconstruction course (Cognitive Technologies)
